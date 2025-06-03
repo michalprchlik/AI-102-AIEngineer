@@ -1,1 +1,1 @@
-This folder contains Python code
+https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/01-get-started-cognitive-services.html
