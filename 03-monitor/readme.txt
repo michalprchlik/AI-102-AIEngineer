@@ -1,0 +1,1 @@
+https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/03-monitor-cognitive-services.html

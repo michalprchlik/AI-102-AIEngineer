@@ -1,1 +1,1 @@
-This folder contains Python code
+https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/02-cognitive-services-security.html
